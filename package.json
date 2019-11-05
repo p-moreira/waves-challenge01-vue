@@ -1,7 +1,7 @@
 {
-  "name": "waves-challenge01-vue",
-  "version": "1.0.0",
-  "description": "My first Waves app using nuxt",
+  "name": "waves-auth-nuxt",
+  "version": "0.0.1",
+  "description": "Waves blockchain auth boilerplate",
   "author": "pmoreira",
   "private": true,
   "scripts": {
